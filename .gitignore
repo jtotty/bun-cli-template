@@ -1,0 +1,19 @@
+# Dependencies
+node_modules/
+
+# Environment
+.env
+.env.local
+
+# Build
+*.tsbuildinfo
+dist/
+
+# Output
+output/
+
+# OS
+.DS_Store
+
+# Claude Code
+.claude/settings.local.json
